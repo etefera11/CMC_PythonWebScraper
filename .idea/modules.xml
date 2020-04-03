@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/YF Python Scraper.iml" filepath="$PROJECT_DIR$/.idea/YF Python Scraper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/YahooScraper.iml" filepath="$PROJECT_DIR$/.idea/YahooScraper.iml" />
     </modules>
   </component>
 </project>
