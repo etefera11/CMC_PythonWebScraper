@@ -1,2 +1,3 @@
+Coin Market Cap Web scraper
 
-Python program that scrapes data from coinmarketcap.com using Beautiful soup 4
+Python program that scrapes data from coinmarketcap.com using the Beautiful Soup library.
